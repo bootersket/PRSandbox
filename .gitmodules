@@ -1,0 +1,9 @@
+[submodule "usr"]
+	path = usr
+	url = git@github.com:bootersket/PRSandbox_usr.git
+[submodule "drvr"]
+	path = drvr
+	url = git@github.com:bootersket/PRSandbox_drvr.git
+[submodule "krnl"]
+	path = krnl
+	url = git@github.com:bootersket/PRSandbox_krnl.git
